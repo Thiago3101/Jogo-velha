@@ -1,0 +1,17 @@
+C:\Users\Thiago\source\repos\Trabalho\Trabalho\bin\Debug\net6.0-windows\Trabalho.exe
+C:\Users\Thiago\source\repos\Trabalho\Trabalho\bin\Debug\net6.0-windows\Trabalho.deps.json
+C:\Users\Thiago\source\repos\Trabalho\Trabalho\bin\Debug\net6.0-windows\Trabalho.runtimeconfig.json
+C:\Users\Thiago\source\repos\Trabalho\Trabalho\bin\Debug\net6.0-windows\Trabalho.dll
+C:\Users\Thiago\source\repos\Trabalho\Trabalho\bin\Debug\net6.0-windows\Trabalho.pdb
+C:\Users\Thiago\source\repos\Trabalho\Trabalho\obj\Debug\net6.0-windows\Trabalho.csproj.AssemblyReference.cache
+C:\Users\Thiago\source\repos\Trabalho\Trabalho\obj\Debug\net6.0-windows\Trabalho.Form1.resources
+C:\Users\Thiago\source\repos\Trabalho\Trabalho\obj\Debug\net6.0-windows\Trabalho.csproj.GenerateResource.cache
+C:\Users\Thiago\source\repos\Trabalho\Trabalho\obj\Debug\net6.0-windows\Trabalho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\source\repos\Trabalho\Trabalho\obj\Debug\net6.0-windows\Trabalho.AssemblyInfoInputs.cache
+C:\Users\Thiago\source\repos\Trabalho\Trabalho\obj\Debug\net6.0-windows\Trabalho.AssemblyInfo.cs
+C:\Users\Thiago\source\repos\Trabalho\Trabalho\obj\Debug\net6.0-windows\Trabalho.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\Trabalho\Trabalho\obj\Debug\net6.0-windows\Trabalho.dll
+C:\Users\Thiago\source\repos\Trabalho\Trabalho\obj\Debug\net6.0-windows\refint\Trabalho.dll
+C:\Users\Thiago\source\repos\Trabalho\Trabalho\obj\Debug\net6.0-windows\Trabalho.pdb
+C:\Users\Thiago\source\repos\Trabalho\Trabalho\obj\Debug\net6.0-windows\Trabalho.genruntimeconfig.cache
+C:\Users\Thiago\source\repos\Trabalho\Trabalho\obj\Debug\net6.0-windows\ref\Trabalho.dll
